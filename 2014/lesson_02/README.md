@@ -1,14 +1,10 @@
 Lesson 2
 ========
-**Before:** Teach the students the basics of how the internet works. Maybe show
-a video and put on a louder sound so that everyone can hear what is being said.
-Introduce HTML and CSS as the "language" that is spoken over the web.
+The goal of these assignments is to teach you the basics of HTML and CSS.
 
-The goal of these assignments is to teach you the basics of HTML.
-
-**HTML**: A subset of XML, a way of displaying data on the web. The web page you
-are reading this on is made with HTML. This Markdown document compiles down to
-HTML. Here's a sample of what an HTML document looks like:
+**HTML**: A subset of XML, used to displaying interfaces on the web. The web 
+page you are reading this on is made with HTML. This Markdown document compiles
+down to HTML. Here's a sample of what an HTML document looks like:
 
 ```html
 <html>
@@ -35,18 +31,20 @@ strong {
 ## Assignment Alpha
 Due Thursday, April 24
 
-* Codecademy course on HTML
-* Codecademy course on CSS
-* Those who have already done both should review, and perhaps do some Code
-* School courses:
-    - Front End Formations
-    - Whatever they do with CSS
+* [Codecademy course on HTML & CSS](http://www.codecademy.com/tracks/web)
+* Optional CodeSchool Courses: (If you've already taken Codecademy)
+    - [CSS Cross Country](https://www.codeschool.com/courses/css-cross-country)
+    - [Front-end Formations](https://www.codeschool.com/courses/front-end-formations)
 
 ## Assignment Beta
 Due Wednesday, April 30
 
+This week, you're going to make a website! I've set up a starter project which
+will help you get going: [berkompasacademy/static_template](http://github.com/berkompasacademy/static_template).
+
 1. Fork the **static_template** to make your project.
-2. Edit the `index.html` file to make a single page telling people why you
-should move to your medieval town.
+2. Edit the `index.html` file, and make any website you want. It just needs to
+be turned in by the assignment deadline. There might be a prize for the person
+who does the best job. 
 3. Submit a pull request back to the **static_template** repository with your
 work for review.
